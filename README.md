@@ -1,6 +1,6 @@
-#  Off-Grid Tracker & Emergency Alert System!
+#  Nex-Track
 
-The **Off-Grid Tracker System** is a wearable-based tracking and safety solution designed to **monitor people and transmit GPS data without relying on cellular networks, Wi-Fi, or internet services**. The system uses **LoRa communication**, **solar-powered towers**, and **wearable watches** to enable reliable tracking, emergency alerts, and identification in remote or disconnected environments.
+The **Nex-Track** is a wearable-based tracking and safety solution designed to **monitor people and transmit GPS data without relying on cellular networks, Wi-Fi, or internet services**. The system uses **LoRa communication**, **solar-powered towers**, and **wearable watches** to enable reliable tracking, emergency alerts, and identification in remote or disconnected environments.
 
 This project is especially suitable for **disaster zones, remote areas, military regions, mines, forests, and off-grid industrial sites**.
 
