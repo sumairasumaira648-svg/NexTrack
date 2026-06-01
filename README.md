@@ -324,7 +324,6 @@ This feature prevents user misidentification and ensures precise tracking when m
 
     *Nevid Alam*
     
-* **Hackathon:** *HACK THE WINTER(THE SECOND WAVE)*
 
 ---
 
